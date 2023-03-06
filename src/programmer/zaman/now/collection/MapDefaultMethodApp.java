@@ -18,5 +18,6 @@ public class MapDefaultMethodApp {
                 System.out.println(key + " : " + value);
             }
         });
+
     }
 }
